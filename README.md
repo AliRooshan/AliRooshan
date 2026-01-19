@@ -12,7 +12,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **About Me**
+### 🧑‍💼 **About Me**
 
 I am a **Computer Science** student at **FCCU** (Vice Rector's List x4 🏆) with a minor in **Data Analytics**. I specialize in building multimodal deep learning systems and crunching complex datasets to find the "why" behind the "what."
 
