@@ -149,14 +149,6 @@ I am a **Computer Science** student at **FCCU** (Vice Rector's List x4 🏆) wit
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=alirooshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Ali's Stats" />
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=alirooshan&theme=tokyonight&hide_border=true" height="160" alt="Ali's Streak" />
-      </td>
-    </tr>
-    <tr>
       <td align="center" colspan="2">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirooshan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="140" alt="Ali's Top Langs" />
       </td>
